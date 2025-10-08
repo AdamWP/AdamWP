@@ -30,7 +30,6 @@
 ### 🤖 AI/ML Innovation
 **[TopSavings](https://www.TopSavings.com)** - Pioneered computer vision for grocery savings
 - Trained custom object detection models for real-time product recognition
-- Built mobile app that lets users point their phone at grocery shelves
 - Returns best prices across stores, saving users money with AI-powered price comparison
 - 🔗 **Check it out:** [www.TopSavings.com](https://www.TopSavings.com)
 
