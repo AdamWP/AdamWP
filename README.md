@@ -87,10 +87,28 @@
 
 ### ☁️ **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
-- Multi-cloud infrastructure and deployment
-- Scalable hosting solutions for web and mobile backends
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- **AWS Services:** EC2 instances, S3 buckets, RDS, Load Balancers
+- **Google Cloud APIs:** Maps, Location Services, Google Ads integration
+- **Multi-cloud infrastructure** and deployment strategies
+- **Linux & Ubuntu server management** and administration
 - Enterprise-grade cloud services and integration
+
+### 🌐 **Social Media & Advertising APIs**
+![Meta](https://img.shields.io/badge/Meta-1877F2?style=for-the-badge&logo=meta&logoColor=white)
+![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google-ads&logoColor=white)
+![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+- **Cross-platform advertising integrations** for LinkClicks SaaS
+- Meta (Facebook/Instagram), Google Ads, TikTok, Snapchat advertising APIs
+- Pinterest, LinkedIn, and Reddit marketing platform integrations
+- Campaign management and analytics across multiple social platforms
 
 ### 📱 **App Store Deployment**
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
