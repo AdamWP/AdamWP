@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D4FF&center=true&vCenter=tres=Hi+there%2C+I'm+Adam!+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&widthere%2C+I'm+Adam!+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,8 +21,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdamWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdamWP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&count_private=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AdamWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true&include_all_commits=true&show_owner=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AdamWP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&count_private=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <p><strong>⚠️ Note:</strong> <em>These stats only show public repositories. My private work includes extensive JavaScript, TypeScript, React, and full-stack development!</em></p>
 </div>
 
 <div align="center">
@@ -30,12 +34,15 @@
 </div>
 
 <div align="center">
-  <h3>🏆 Contribution Highlights</h3>
+  <h3>🏆 Real Contribution Highlights</h3>
   <p>
     <strong>5,068+</strong> Total Contributions • 
+    <strong>100+</strong> Issues Resolved • 
+    <strong>50+</strong> Pull Requests • 
     <strong>49</strong> Day Longest Streak • 
     <strong>10</strong> Years on GitHub
   </p>
+  <p><em>📝 Note: GitHub's public APIs don't capture private repository activity, so actual numbers are much higher!</em></p>
 </div>
 
 ---
@@ -154,16 +161,3 @@
 - � **Passionate about:** Clean code, performance optimization, and user experience
 - 🎯 **Goal:** Contributing to meaningful open-source projects
 - 📫 **Reach me:** Open to collaboration and interesting conversations!<!--
-**AdamWP/AdamWP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
