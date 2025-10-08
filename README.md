@@ -153,11 +153,3 @@
 </div>
 
 ---
-
-## 🚀 About Me
-
-- 🔭 **Currently working on:** Building awesome web applications
-- 🌱 **Learning:** Always exploring new technologies and frameworks
-- � **Passionate about:** Clean code, performance optimization, and user experience
-- 🎯 **Goal:** Contributing to meaningful open-source projects
-- 📫 **Reach me:** Open to collaboration and interesting conversations!<!--
