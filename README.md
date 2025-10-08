@@ -1,4 +1,16 @@
-<div align="- 🔭 **Currently working on:** Building awesome web applications
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D4FF&center=true&vCtrue&width=600&lines=Hi+there%2C+I'm+Adam!+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdamWP&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Currently working on:** Building awesome web applications
 - 🌱 **Learning:** Always exploring new technologies and frameworks
 - 💡 **Passionate about:** Clean code, performance optimization, and user experience
 - 🎯 **Goal:** Contributing to meaningful open-source projects
@@ -9,11 +21,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdamWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamWP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamWP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&include_all_commits=true&count_private=true&hide=html,css" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -65,6 +77,60 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
+---
+
+## 🎯 Current Focus & Interests
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AdamWP&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&layout=compact" alt="Coding Activity" />
+</div>
+
+- 🔥 **Currently exploring:** AI/ML integration in web applications
+- 🌐 **Building:** Modern web applications with cutting-edge technologies  
+- 🚀 **Contributing to:** Open source projects that make a difference
+- 📚 **Learning:** Cloud architecture and DevOps best practices
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdamWP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdamWP/AdamWP/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <b>Thanks for visiting! 😊</b>
+  <br>
+  <i>⭐ Star some repositories if you find them interesting!</i>
 </div>r">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adam!+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
