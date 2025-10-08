@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D4FF&center=true&vCtrue&width=600&lines=Hi+there%2C+I'm+Adam!+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D4FF&center=true&vCente&lines=Hi+there%2C+I'm+Adam!+%F0%9F%91%8B;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,15 +21,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdamWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamWP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&include_all_commits=true&count_private=true&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdamWP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&count_private=true&include_all_commits=true&hide_rank=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdamWP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff&count_private=true&hide=html,css,scss" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdamWP&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdamWP&theme=github_dark" alt="Stats Overview" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdamWP&theme=github_dark&utcOffset=8" alt="Productive Time" />
 </div>
 
 ---
