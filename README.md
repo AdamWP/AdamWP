@@ -11,14 +11,6 @@
 
 ## 🚀 Things I've Built
 
-### 📱 Ad Tech & SaaS
-**[LinkClicks](https://www.LinkClicks.com)** - Streamlining digital advertising
-- Developing comprehensive SaaS solution for campaign management
-- Single dashboard to launch, measure, and manage ads across multiple platforms
-- Cross-platform mobile app for advertisers on-the-go
-- Solving the complexity of multi-platform advertising
-- 🔗 **Coming Soon** [www.LinkClicks.com](https://www.LinkClicks.com)
-
 ### 🚴 Mobile App Development
 **[CycleCam](https://www.CycleCam.app)** - Safety tech for cyclists
 - Available on both App Store and Google Play
@@ -33,6 +25,14 @@
 - Returns best prices across stores, saving users money with AI-powered price comparison
 - 🔗 **Check it out:** [www.TopSavings.com](https://www.TopSavings.com)
 
+
+### 📱 Ad Tech & SaaS
+**[LinkClicks](https://www.LinkClicks.com)** - Streamlining digital advertising
+- Developing comprehensive SaaS solution for campaign management
+- Single dashboard to launch, measure, and manage ads across multiple platforms
+- Cross-platform mobile app for advertisers on-the-go
+- Solving the complexity of multi-platform advertising
+- 🔗 **Coming Soon** [www.LinkClicks.com](https://www.LinkClicks.com)
 ---
 
 ## 💡 What Drives Me
@@ -84,6 +84,22 @@
 - Production LLM implementation in web and mobile applications
 - Hybrid cloud/local AI architecture for optimal performance and privacy
 
+### 📱 **Mobile Development**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- Cross-platform mobile apps for iOS and Android
+- Native platform knowledge and app store deployment
+- Powers CycleCam and LinkClicks mobile apps
+
+
+### 📱 **App Store Deployment**
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+- Full deployment pipeline to iOS App Store and Google Play
+- Production app management and updates (CycleCam live in both stores)
+- App store optimization and compliance expertise
+
 ### 🗄️ **Database Management**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -132,21 +148,6 @@
 - **Infrastructure Security:** SSL/TLS certificates, secure cloud configurations
 - **Mobile Security:** Secure on-device storage, app attestation, privacy-first design
 
-### 📱 **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-- Cross-platform mobile apps for iOS and Android
-- Native platform knowledge and app store deployment
-- Powers CycleCam and LinkClicks mobile apps
-
-
-### 📱 **App Store Deployment**
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
-- Full deployment pipeline to iOS App Store and Google Play
-- Production app management and updates (CycleCam live in both stores)
-- App store optimization and compliance expertise
 
 ### 🛠️ **Development Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
