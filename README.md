@@ -11,6 +11,14 @@
 
 ## 🚀 Things I've Built
 
+### 📱 Ad Tech & SaaS
+**[LinkClicks](https://www.LinkClicks.com)** - Streamlining digital advertising
+- Developing comprehensive SaaS solution for campaign management
+- Single dashboard to launch, measure, and manage ads across multiple platforms
+- Cross-platform mobile app for advertisers on-the-go
+- Solving the complexity of multi-platform advertising
+- 🔗 **Coming Soon** [www.LinkClicks.com](https://www.LinkClicks.com)
+
 ### 🚴 Mobile App Development
 **[CycleCam](https://www.CycleCam.app)** - Safety tech for cyclists
 - Available on both App Store and Google Play
@@ -25,14 +33,6 @@
 - Returns best prices across stores, saving users money with AI-powered price comparison
 - 🔗 **Check it out:** [www.TopSavings.com](https://www.TopSavings.com)
 
-
-### 📱 Ad Tech & SaaS
-**[LinkClicks](https://www.LinkClicks.com)** - Streamlining digital advertising
-- Developing comprehensive SaaS solution for campaign management
-- Single dashboard to launch, measure, and manage ads across multiple platforms
-- Cross-platform mobile app for advertisers on-the-go
-- Solving the complexity of multi-platform advertising
-- 🔗 **Coming Soon** [www.LinkClicks.com](https://www.LinkClicks.com)
 ---
 
 ## 💡 What Drives Me
