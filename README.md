@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AdamWP&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AdamWP&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
 
 
