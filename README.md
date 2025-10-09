@@ -46,43 +46,50 @@
 
 ## 🛠️ My Tech Stack
 
-### 📱 **Mobile Development**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-- Cross-platform mobile apps for iOS and Android
-- Native platform knowledge and app store deployment
-- Powers CycleCam and LinkClicks mobile apps
-
 ### 🌐 **Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - Modern React applications with responsive design
 - TypeScript for type-safe, scalable codebases
+- Semantic HTML5 and modern CSS3 for accessible web interfaces
 
 ### ⚙️ **Backend Development**
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Channels](https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![Daphne](https://img.shields.io/badge/Daphne-092E20?style=for-the-badge&logo=django&logoColor=white)
 - Robust Django APIs powering all my applications
+- **Django ORM** for complex database modeling and optimized queries
 - Python for backend logic and data processing
-- WebSockets for real-time communication and live updates
+- **Django Channels + WebSockets** for real-time client-server communication
+- **Celery** for asynchronous task processing and background jobs
+- **Daphne** ASGI server for handling async Django applications
 
-### 🤖 **AI/ML & Voice Technology**
+### 🤖 **AI/ML Technology**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 - TensorFlow for custom model training 
 - Custom TTS (Text-to-Speech) voice training
 - Computer vision and machine learning model development
-- **LLM Integration & Deployment** in production applications
-- Large Language Model implementation for intelligent features
+- **OpenAI/ChatGPT API integrations** for intelligent features
+- **Local LLM deployment:** Ollama, Qwen, DeepSeek, Gemma, GPT-OSS
+- Production LLM implementation in web and mobile applications
+- Hybrid cloud/local AI architecture for optimal performance and privacy
 
 ### 🗄️ **Database Management**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - Relational database design and optimization
+- **AWS RDS** for managed cloud database solutions
 - Production-ready database solutions for all applications
 
 ### ☁️ **Cloud & Infrastructure**
@@ -91,10 +98,12 @@
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 - **AWS Services:** EC2 instances, S3 buckets, RDS, Load Balancers
 - **Google Cloud APIs:** Maps, Location Services, Google Ads integration
 - **Multi-cloud infrastructure** and deployment strategies
 - **Linux & Ubuntu server management** and administration
+- **Nginx** web server configuration and reverse proxy setup
 - Enterprise-grade cloud services and integration
 
 ### 🌐 **Social Media & Advertising APIs**
@@ -110,9 +119,39 @@
 - Pinterest, LinkedIn, and Reddit marketing platform integrations
 - Campaign management and analytics across multiple social platforms
 
+### 🔒 **Security & Best Practices**
+![Security](https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=security&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![2FA](https://img.shields.io/badge/2FA-4285F4?style=for-the-badge&logo=google-authenticator&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-00A86B?style=for-the-badge&logo=letsencrypt&logoColor=white)
+- **Authentication & Authorization:** OAuth 2.0, JWT tokens, secure session management
+- **Multi-Factor Authentication:** 2FA/TOTP implementation for web and mobile apps
+- **Data Protection:** Encryption at rest and in transit, GDPR compliance
+- **API Security:** Rate limiting, input validation, SQL injection prevention
+- **Infrastructure Security:** SSL/TLS certificates, secure cloud configurations
+- **Mobile Security:** Secure on-device storage, app attestation, privacy-first design
+
+### 📱 **Mobile Development**
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- Cross-platform mobile apps for iOS and Android
+- Native platform knowledge and app store deployment
+- Powers CycleCam and LinkClicks mobile apps
+
+
 ### 📱 **App Store Deployment**
 ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 - Full deployment pipeline to iOS App Store and Google Play
 - Production app management and updates (CycleCam live in both stores)
 - App store optimization and compliance expertise
+
+### 🛠️ **Development Tools**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-1F6FEB?style=for-the-badge&logo=githubcopilot&logoColor=white)
+- **Version Control:** GitHub for code management and collaboration
+- **IDE:** Visual Studio Code for efficient development workflow
+- **AI Pair Programming:** GitHub Copilot integrated into VS Code
