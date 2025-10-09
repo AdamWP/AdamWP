@@ -7,7 +7,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github_dark" alt="Profile Summary" />
 </div>
 
----
+<div align="center">
+  <img src="./github-metrics.svg" alt="Languages (including private repos)" />
+</div>
 
 ## 🚀 Things I've Built
 
