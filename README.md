@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 What I've Built
+## 🚀 Things I've Built
 
 ### 📱 Ad Tech & SaaS
 **[LinkClicks](https://www.LinkClicks.com)** - Streamlining digital advertising
