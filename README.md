@@ -2,7 +2,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AdamWP&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
 
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github_dark" alt="Profile Summary" />
 </div>
