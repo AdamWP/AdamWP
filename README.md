@@ -18,26 +18,26 @@
 ## 🚀 Things I've Built
 
 ### 📱 Ad Tech & SaaS
-**[LinkClicks](https://www.LinkClicks.com)** - Streamlining digital advertising
+<a href="https://www.LinkClicks.com" target="_blank" rel="noopener noreferrer"><strong>LinkClicks</strong></a> - Streamlining digital advertising
 - Developing comprehensive SaaS solution for campaign management
 - Single dashboard to launch, measure, and manage ads across multiple platforms
 - Cross-platform mobile app for advertisers on-the-go
 - Solving the complexity of multi-platform advertising
-- 🔗 **Coming Soon** [www.LinkClicks.com](https://www.LinkClicks.com)
+- 🔗 <strong>Coming Soon</strong> <a href="https://www.LinkClicks.com" target="_blank" rel="noopener noreferrer">www.LinkClicks.com</a>
 
 ### 🚴 Mobile App Development
-**[CycleCam](https://www.CycleCam.app)** - Safety tech for cyclists
+<a href="https://www.CycleCam.app" target="_blank" rel="noopener noreferrer"><strong>CycleCam</strong></a> - Safety tech for cyclists
 - Available on both App Store and Google Play
 - Dashcam solution specifically designed for bicycle safety
 - **Auto-generates highlight videos** for social media sharing
 - Mobile-first approach to cyclist protection technology
-- 🔗 **Visit:** [www.CycleCam.app](https://www.CycleCam.app)
+- 🔗 <strong>Visit:</strong> <a href="https://www.CycleCam.app" target="_blank" rel="noopener noreferrer">www.CycleCam.app</a>
 
 ### 🤖 AI/ML Innovation
-**[TopSavings](https://www.TopSavings.com)** - Pioneered computer vision for grocery savings
+<a href="https://www.TopSavings.com" target="_blank" rel="noopener noreferrer"><strong>TopSavings</strong></a> - Pioneered computer vision for grocery savings
 - Trained custom object detection models for real-time product recognition
 - Returns best prices across stores, saving users money with AI-powered price comparison
-- 🔗 **Check it out:** [www.TopSavings.com](https://www.TopSavings.com)
+- 🔗 <strong>Check it out:</strong> <a href="https://www.TopSavings.com" target="_blank" rel="noopener noreferrer">www.TopSavings.com</a>
 
 ---
 
