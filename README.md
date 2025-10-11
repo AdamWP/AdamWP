@@ -46,6 +46,7 @@
 - 🧠 **AI/ML Passion:** Love building intelligent systems that solve real-world problems
 - 📊 **Ad Tech Expertise:** Fascinated by the intersection of data, technology, and marketing
 - 🔧 **Full-Stack Development:** Enjoy creating end-to-end solutions from concept to deployment
+- 🔒 **Security by Design:** Privacy-first architecture, 2FA/TOTP, OAuth 2.0 + JWT, encryption in transit and at rest
 - 📱 **Mobile Innovation:** Focused on mobile-first experiences that users love
 
 ---
