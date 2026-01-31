@@ -1,18 +1,18 @@
 <div align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP" alt="Profile Summary" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=AdamWP&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=AdamWP&hide_border=true&theme=default" />
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AdamWP&hide_border=true" alt="GitHub Streak" />
   </picture>
   
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP" alt="Profile Summary" />
-  </picture>
 </div>
 
 ## 🚀 Things I've Built
