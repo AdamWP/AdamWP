@@ -18,12 +18,14 @@
 ## 🚀 Things I've Built
 
 ### 📢 Ad Tech & SaaS
-🎯 <a href="https://www.LinkClicks.com" target="_blank" rel="noopener noreferrer"><strong>LinkClicks</strong></a> - Streamlining digital advertising
-- Developing comprehensive SaaS solution for campaign management
-- Single dashboard to launch, measure, and manage ads across multiple platforms - Google, Meta, TikTok, Pinterest, Snapchat, LinkedIn
+🎯 <a href="https://www.linkclicks.com" target="_blank" rel="noopener noreferrer"><strong>Link Clicks Ads Manager</strong></a> - Cross-platform advertising management, simplified
+- Single dashboard to manage, measure, and optimize ads across Meta, Google, LinkedIn, TikTok, Pinterest, Snapchat and more
+- AI-powered tools to help advertisers generate ad copy, keywords, and targeting suggestions
+- Universal conversion pixel for simplified cross-platform tracking
 - Cross-platform mobile app for advertisers on-the-go
-- Solving the complexity of multi-platform advertising
-- 🔗 <a href="https://www.LinkClicks.com" target="_blank" rel="noopener noreferrer">www.LinkClicks.com</a>
+- 🟢 <strong>Live now:</strong> <a href="https://www.linkclicks.com" target="_blank" rel="noopener noreferrer">www.linkclicks.com</a>
+
+<br>
 
 ### 📱 Mobile App Development
 🚴 <a href="https://www.CycleCam.app" target="_blank" rel="noopener noreferrer"><strong>CycleCam</strong></a> - Safety tech for cyclists
@@ -32,6 +34,8 @@
 - **Auto-generates highlight videos** for social media sharing
 - Mobile-first approach to cyclist protection technology
 - 🔗 <strong>Visit:</strong> <a href="https://www.CycleCam.app" target="_blank" rel="noopener noreferrer">www.CycleCam.app</a>
+
+<br>
 
 ### 🤖 AI/ML Innovation
 💰 <a href="https://www.TopSavings.com" target="_blank" rel="noopener noreferrer"><strong>TopSavings</strong></a> - Pioneered computer vision for grocery savings
