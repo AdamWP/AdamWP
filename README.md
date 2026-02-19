@@ -20,10 +20,10 @@
 ### 📢 Ad Tech & SaaS
 🎯 <a href="https://www.LinkClicks.com" target="_blank" rel="noopener noreferrer"><strong>LinkClicks</strong></a> - Streamlining digital advertising
 - Developing comprehensive SaaS solution for campaign management
-- Single dashboard to launch, measure, and manage ads across multiple platforms
+- Single dashboard to launch, measure, and manage ads across multiple platforms - Google, Meta, TikTok, Pinterest, Snapchat, LinkedIn
 - Cross-platform mobile app for advertisers on-the-go
 - Solving the complexity of multi-platform advertising
-- 🔗 <strong>Coming Soon</strong> <a href="https://www.LinkClicks.com" target="_blank" rel="noopener noreferrer">www.LinkClicks.com</a>
+- 🔗 <a href="https://www.LinkClicks.com" target="_blank" rel="noopener noreferrer">www.LinkClicks.com</a>
 
 ### 📱 Mobile App Development
 🚴 <a href="https://www.CycleCam.app" target="_blank" rel="noopener noreferrer"><strong>CycleCam</strong></a> - Safety tech for cyclists
