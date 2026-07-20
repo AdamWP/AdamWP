@@ -20,8 +20,10 @@
 ### 📢 Ad Tech & SaaS
 🎯 <a href="https://www.linkclicks.com" target="_blank" rel="noopener noreferrer"><strong>Link Clicks Ads Manager</strong></a> - Cross-platform advertising management, simplified
 - Single dashboard to manage, measure, and optimize ads across Meta, Google, LinkedIn, TikTok, Pinterest, Snapchat and more
-- AI-powered tools to help advertisers generate ad copy, keywords, and targeting suggestions
-- Universal conversion pixel for simplified cross-platform tracking
+- Deep analytics & insights suite: conversion tracking, unique-visitor/location/referrer breakdowns, traffic-quality & bot detection, and drill-down drawers for every metric
+- Universal conversion pixel with built-in e-commerce integrations (Shopify, Wix, WooCommerce)
+- AI-powered creative tools: auto-generate ad copy, images, and video ads, plus keyword and targeting suggestions
+- Website health monitoring with automated scanning and real-time alerts
 - Cross-platform mobile app for advertisers on-the-go
 - 🟢 <strong>Live now:</strong> <a href="https://www.linkclicks.com" target="_blank" rel="noopener noreferrer">www.linkclicks.com</a>
 
