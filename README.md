@@ -1,5 +1,10 @@
 <div align="center">
-  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github_dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdamWP" alt="Profile Summary" />
+  </picture>
+</div>
 
 <div align="center">
   <picture>
