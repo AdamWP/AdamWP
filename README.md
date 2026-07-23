@@ -43,7 +43,6 @@
 💰 <a href="https://www.TopSavings.com" target="_blank" rel="noopener noreferrer"><strong>TopSavings</strong></a> - Pioneered computer vision for grocery savings
 - Trained custom object detection models for real-time product recognition
 - Returns best prices across stores, saving users money with AI-powered price comparison
-- 🔗 <strong>Check it out:</strong> <a href="https://www.TopSavings.com" target="_blank" rel="noopener noreferrer">www.TopSavings.com</a>
 
 ---
 
